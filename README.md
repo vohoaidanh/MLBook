@@ -1,17 +1,12 @@
-10 GitHub repo để xây dựng sự nghiệp AI Engineering
+Repository này tạo ra như 1 file Note các link hay mà tôi sẽ xem sau. 
 
-(Lộ trình 100% miễn phí, từng bước một)
-
-
-
+Phần bên dưới là copy từ fb của mì ai nhé.
 1️⃣ ML for Beginners – Microsoft
 
 Một giáo trình 12 tuần theo hướng dự án, dạy toàn bộ nền tảng ML cổ điển với Scikit-learn trên các bộ dữ liệu thực tế.
 Bao gồm bài giảng, câu hỏi ôn tập và bài tập thực hành, kèm một số video.
 
 Repo GitHub → https://lnkd.in/dCxStbYv
-
-
 
 2️⃣ AI for Beginners – Microsoft
 
@@ -21,16 +16,12 @@ Dễ hiểu, theo hướng dự án, và sát với ứng dụng thực tế.
 
 Repo GitHub → https://lnkd.in/dwS5Jk9E
 
-
-
 3️⃣ Neural Networks: Zero to Hero
 
 Sau khi nắm nền tảng AI/ML, đây là lúc đào sâu hệ thống học sâu.
 Repo của Andrej Karpathy hướng dẫn xây dựng các mô hình deep learning hiện đại từ con số 0 — bao gồm cả GPT.
 
 Repo GitHub → https://lnkd.in/dXAQWucq
-
-
 
 4️⃣ DL Paper Implementations
 
